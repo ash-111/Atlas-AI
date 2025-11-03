@@ -6,6 +6,8 @@ Built for the **AWS AI Agent Global Hackathon**.
 
 https://master.da7w1vlhec58y.amplifyapp.com/
 
+<img width="927" height="455" alt="image" src="https://github.com/user-attachments/assets/ca8c28d9-4daa-43ae-bd04-9dbc60fd3e1f" />
+
 ---
 
 ## 1. The Problem: From Reactive to Proactive
